@@ -1,0 +1,28 @@
+This file contains sample results of the RL agent's performance on test workloads.
+
+
+Episode 0: Average Reward = -5.2
+Episode 50: Average Reward = -4.5
+Episode 100: Average Reward = -3.8
+Episode 150: Average Reward = -3.2
+Episode 200: Average Reward = -2.7
+Episode 250: Average Reward = -2.3
+Episode 300: Average Reward = -1.9
+Episode 350: Average Reward = -1.5
+Episode 400: Average Reward = -1.2
+Episode 450: Average Reward = -0.9
+Episode 500: Average Reward = -0.6
+Episode 550: Average Reward = -0.3
+Episode 600: Average Reward = 0.1
+Episode 650: Average Reward = 0.4
+Episode 700: Average Reward = 0.8
+Episode 750: Average Reward = 1.2
+Episode 800: Average Reward = 1.7
+Episode 850: Average Reward = 2.2
+Episode 900: Average Reward = 2.8
+Episode 950: Average Reward = 3.5
+
+Explanation:
+This sample result file shows the average reward obtained by the RL agent after every 50 episodes during training.
+The rewards are negative in the beginning as the agent is learning, but they improve over time as the agent learns an optimal policy.
+You can update this file with the actual results obtained during your RL agent training.
