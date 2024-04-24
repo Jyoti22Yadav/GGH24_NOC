@@ -14,7 +14,7 @@ results.txt: Sample result file showing RL agent's performance.
 requirements.txt: List of required dependencies.
 Setup and Installation
 Clone this repository:
-git clone https://github.com/your-username/noc-rl-optimization.git cd noc-rl-optimization
+git clone https://github.com/Jyoti22Yadav cd noc-rl-optimization
 
 
 Install dependencies:
